@@ -1,0 +1,6 @@
+{
+  "name": "Aura Finanças",
+  "description": "Aplicativo de finanças minimalista premium, elegante, rápido e fácil de entender.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
